@@ -88,5 +88,5 @@ You can view the mockup of the JABU Fabric Hub E-commerce System [here](https://
 
 ## GitHub Repository
 
-You can access the GitHub repository for the JABU Fabric Hub E-commerce System at [https://github.com/JABU-2022/jabu-fabric-hub/tree/master](https://github.com/JABU-2022/jabu-fabric-hub/tree/master).
+You can access the GitHub repository for the JABU Fabric Hub E-commerce System at [here](https://github.com/JABU-2022/jabu-fabric-hub/tree/master).
 
