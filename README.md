@@ -81,3 +81,8 @@
 - Order logs and product management
 - Product variant, report, and review logs
 - Withdrawal request management
+
+## Mockup
+
+You can view the mockup of the JABU Fabric Hub E-commerce System [here](https://drive.google.com/file/d/1tpLfsSTD8GmiKI1cwA2gEMCpAJZzYdbY/view?usp=sharing).
+
